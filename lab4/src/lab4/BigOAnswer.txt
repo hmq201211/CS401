@@ -1,0 +1,4 @@
+methodA'complexity is O(N^3)
+methodB'complexity is O(N^2)
+methodC'complexity is O(NlogN)
+bubbleSort'complexity is O(N^2)
